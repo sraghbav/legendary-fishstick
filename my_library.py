@@ -1,2 +1,2 @@
-def test_loaded():
+def test_load():
   return 'loaded'
